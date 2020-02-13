@@ -1,0 +1,20 @@
+body {
+  margin: auto;
+  max-widt: 1024px;
+  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  color: #222222;
+}
+
+h1{
+	text-align:center; 
+	font-size: 24px;	
+}
+
+ul{
+  font-style: italic;
+}
+
+.imgCenter{
+  text-align:center;
+}
